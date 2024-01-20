@@ -1,0 +1,15 @@
+# ⌨️ domson.dev
+
+Home - Domson's Capsule
+
+Welcome to the homepage of domson.dev, the personal Gemini capsule of Domson.
+
+So far, it has these two articles, both about hobby projects I've done:
+
+=> gemini://domson.dev/projects/lightweather.gmi Project: Light Weather
+=> gemini://domson.dev/projects/epaper.gmi Project: E-Paper
+
+There is also an HTTPS version to go with this Gemini capsule at the same domain, if you're into that kind of thing. Currently, the two versions are mostly identical.
+
+Eventually I may figure out how to make a feed of the pages, but I haven't yet.
+
